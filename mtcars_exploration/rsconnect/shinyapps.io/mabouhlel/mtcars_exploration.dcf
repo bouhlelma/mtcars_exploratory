@@ -1,0 +1,12 @@
+name: mtcars_exploration
+title: mtcars_exploration
+username:
+account: mabouhlel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3648583
+bundleId: 4232104
+url: https://mabouhlel.shinyapps.io/mtcars_exploration/
+when: 1613516760.08973
+asMultiple: FALSE
+asStatic: FALSE
